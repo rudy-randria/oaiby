@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@media (max-width:767px) and (min-width:1px) {
+		.mywidth{
+			width: 100%;
+		}
+}
+
+
+
+
+    .mywidth100{
+        width: 100%;
+    }
+    .mywidth90{
+        width: 90%;
+    }
+    .mywidth80{
+        width: 80%;
+    }
+    .mywidth70{
+        width: 70%;
+    }
+    .mywidth60{
+        width: 60%;
+    }
+    .mywidth50{
+        width: 50%;
+    }
+    .mywidth40{
+        width: 40%;
+    }
+    .mywidth30{
+        width: 30%;
+    }
+    .mywidth20{
+        width: 20%;
+    }
+    .mywidth10{
+        width: 10%;
+    }
